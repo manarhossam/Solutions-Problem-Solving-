@@ -22,3 +22,7 @@ The goal of this sheet is to improve problem-solving skills, logical thinking, a
 ## 🎯 Purpose
 - Improve coding speed
 - Strengthen problem-solving skills
+
+## 📄 Problem Sheet
+You can find the original sheet here:
+https://codeforces.com/group/MWSDmqGsZm/contests
